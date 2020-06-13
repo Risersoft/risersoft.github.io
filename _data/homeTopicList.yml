@@ -1,0 +1,91 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+#    - title: Git collaboration
+#      url: /mydoc_git_collaboration
+#      output: web, pdf
+
+
+entries:
+- topic: MPCNirvana
+  topicList: 
+  - name: MPCNirvana Windows 
+    list:
+    - title: Introduction
+      output: single
+      url: /mpc-nirvana-win/introduction.html
+      
+    - title: Creating Company
+      output: single
+      url: /mpc-nirvana-win/new-company.html
+      
+    - title: Creating Shift
+      output: single
+      url: /mpc-nirvana-win/creating-shift.html
+      
+    - title: Person
+      output: single
+      url: /mpc-nirvana-win/person.html
+      
+    - title: Creating Vendor
+      output: single
+      url: /mpc-nirvana-win/creating-vendor.html
+      
+    - title: Measurment Property
+      output: single
+      url: /mpc-nirvana-win/measurment-property.html
+      
+    - title: Item Units
+      output: single
+      url: /mpc-nirvana-win/item-units.html
+      
+    - title: Item Schedule
+      output: single
+      url: /mpc-nirvana-win/item-schedule.html
+      
+    - title: Item Sub Category
+      output: single
+      url: /mpc-nirvana-win/item-sub-category.html
+      
+    - title: Items 
+      output: single
+      url: /mpc-nirvana-win/items.html
+    
+    - title: Add Planning Process
+      output: single
+      url: /mpc-nirvana-win/add-planning-process.html
+    
+    - title: Standard Sequence
+      output: single
+      url: /mpc-nirvana-win/standard-sequence.html
+    
+    - title: WO's
+      output: single
+      url: /mpc-nirvana-win/wo.html
+    
+  
+    - title: Work Order Product Definition 
+      output: single
+      url: /mpc-nirvana-win/work-order-product-definition.html
+    
+    - title: Add Incentive Data
+      output: single
+      url: /mpc-nirvana-win/add-incentive-data.html
+    
+    - title: Add Lots to Workorder 
+      output: single
+      url: /mpc-nirvana-win/add-lots-to-workorder.html
+    
+    - title: Add Progress Report
+      output: single
+      url: /mpc-nirvana-win/add-progress-report.html
+    
+    - title: Calculate Incentive
+      output: single
+      url: /mpc-nirvana-win/calculate-incentive.html
+    
+    - title: View Calulated Incentive data 
+      output: single
+      url: /mpc-nirvana-win/view-calculated-incentive-data.html
+    
+
+  

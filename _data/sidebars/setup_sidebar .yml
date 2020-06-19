@@ -1,0 +1,63 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Setup and Activation
+  
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+      
+  - title: Introduction
+    output: single
+    url: /setup-activation/introduction.html
+    folderitems:
+    -
+ 
+  - title: Installation
+    output: single
+    url: /setup-activation/installation.html
+    folderitems:
+    -
+  - title: Configuration
+    output: web
+    url: /setup-activation/configuration.html
+    folderitems:
+    
+    - title: Cloud Service
+      url: /setup-activation/cloud-service.html
+      output: web
+      subfolders:
+      
+      - title: Database Server
+        url: /setup-activation/database-server.html
+        output: web
+        subfolderitems:
+        
+        - title: LocalDB
+          url: /setup-activation/localdb.html
+          output: web
+        
+        - title: SQL Server
+          url: /setup-activation/sqlserver.html
+          output: web
+      
+      
+  - title: Activation
+    output: single
+    url: /setup-activation/activation.html
+    folderitems:
+    -
+  

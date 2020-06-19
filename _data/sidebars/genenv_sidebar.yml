@@ -1,0 +1,94 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: General Environment
+  
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+      
+  - title: Introduction
+    output: single
+    url: /general-environment/introduction.html
+    folderitems:
+    -
+ 
+  - title: Sign In
+    output: single
+    url: /general-environment/signin.html
+    folderitems:
+    -
+  - title: Main Screen
+    output: web
+    url: /general-environment/Mainscreen.html
+    folderitems:
+    -
+      
+
+  - title: Menu Commands
+    output: single
+    url: /general-environment/menu-commands.html
+    folderitems:
+    -
+    
+  - title: Toolbar Commands
+    output: single
+    url: /general-environment/toolbar-commands.html
+    folderitems:
+    -
+    
+  - title: Filtering System
+    output: web
+    url: /general-environment/filtering-system.html
+    folderitems:
+    - title: Add Filter Menu
+      url: /general-environment/add-filter-menu.html
+      output: web
+      
+
+    - title: Filters Menu
+      url: /general-environment/filters-menu.html
+      output: web
+
+    - title: Selecting Views from the Menu
+      url: /general-environment/selecting-views-from-the-menu.html
+      output: web
+    
+  - title: Printing
+    output: single
+    url: /general-environment/printing.html
+    folderitems:
+    -
+    
+  - title: Browser
+    output: single
+    url: /general-environment/browser.html
+    folderitems:
+    -
+    
+  - title: Collaboration Features
+    output: single
+    url: /general-environment/collaboration-features.html
+    folderitems:
+    -
+    
+  - title: Data Entry Screens
+    output: single
+    url: /general-environment/data-entry-screens.html
+    folderitems:
+    -
+    
+  

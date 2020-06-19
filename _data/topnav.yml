@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/Risersoft/MPC
+      external_url: https://github.com/Risersoft/risersoft.github.io
     - title: Blog
       url: /blog
 
@@ -20,8 +20,17 @@ topnav_dropdowns:
         
     - title: Products
       folderitems:
-        - title: MPCNirvana Windows
-          url: /mpc-nirvana-win/introduction.html
+        - title: Setup and Activation
+          url: /setup-activation/introduction.html
+          
+        - title: General Environment
+          url: /general-environment/introduction.html
+          
+        - title: Formula Language
+          url: /formula-language/introduction.html
+          
+        - title: Easy Data Porter
+          url: /easy-data-porter/introduction.html
         
         
         

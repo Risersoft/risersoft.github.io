@@ -32,7 +32,7 @@ entries:
     folderitems:
     -
   - title: Main Screen
-    output: web
+    output: single
     url: /general-environment/Mainscreen.html
     folderitems:
     -

@@ -2,7 +2,7 @@
 title: Schema Definition
 keywords: Schema Definition
 sidebar: edp_sidebar
-permalink: easy_data_porter/schema-defination.html
+permalink: easy-data-porter/schema-defination.html
 folder: EDP
 hide_sidebar: false
 comments: false

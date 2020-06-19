@@ -2,7 +2,7 @@
 title: Introduction
 keywords: Introduction
 sidebar: edp_sidebar
-permalink: easy_data_porter/introduction.html
+permalink: easy-data-porter/introduction.html
 folder: EDP
 hide_sidebar: false
 comments: false

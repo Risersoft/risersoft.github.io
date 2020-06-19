@@ -22,90 +22,90 @@ entries:
       
   - title: Introduction
     output: single
-    url: /easy_data_porter/introduction.html
+    url: /easy-data-porter/introduction.html
     folderitems:
     -
  
   - title: Terminology
     output: single
-    url: /easy_data_porter/terminology.html
+    url: /easy-data-porter/terminology.html
     folderitems:
     -
   - title: Documentation Notes
-    output: web
-    url: /easy_data_porter/documentation-notes.html
+    output: single
+    url: /easy-data-porter/documentation-notes.html
     folderitems:
     -
   
   - title: Source and Target Connection
     output: web
-    url: /easy_data_porter/source-and-target-connection.html
+    url: /easy-data-porter/source-and-target-connection.html
     folderitems:
     - title: Query Builder
-      url: /easy_data_porter/query-builder.html
+      url: /easy-data-porter/query-builder.html
       output: web
       
 
     - title: Ribbon Bar
-      url: /easy_data_porter/ribbon-bar.html
+      url: /easy-data-porter/ribbon-bar.html
       output: web
 
     - title: Properties
-      url: /easy_data_porter/properties.html
+      url: /easy-data-porter/properties.html
       output: web
     
     
   - title: Schema
     output: web
-    url: /easy_data_porter/schema.html
+    url: /easy-data-porter/schema.html
     folderitems:
     - title: Schema Definition
-      url: /easy_data_porter/schema-defination.html
+      url: /easy-data-porter/schema-defination.html
       output: web
       
 
     - title: Ribbon Bar
-      url: /easy_data_porter/schema-ribbon-bar.html
+      url: /easy-data-porter/schema-ribbon-bar.html
       output: web
 
     - title: Field
-      url: /easy_data_porter/field.html
+      url: /easy-data-porter/field.html
       output: web
     
     - title: Validation Rule
-      url: /easy_data_porter/validation-rule.html
+      url: /easy-data-porter/validation-rule.html
       output: web
  
     
   - title: Mapping
     output: web
-    url: /easy_data_porter/mapping.html
+    url: /easy-data-porter/mapping.html
     folderitems:
     - title: Map Expression
-      url: /easy_data_porter/map-expression.html
+      url: /easy-data-porter/map-expression.html
       output: web
       
 
     - title: Ribbon Bar
-      url: /easy_data_porter/ribbon-bar-mapping.html
+      url: /easy-data-porter/ribbon-bar-mapping.html
       output: web
 
     
   - title: Options
     output: single
-    url: /easy_data_porter/Options.html
+    url: /easy-data-porter/Options.html
     folderitems:
     -
     
   - title: Data
     output: single
-    url: /easy_data_porter/data.html
+    url: /easy-data-porter/data.html
     folderitems:
     -
     
   - title: Command Line Operation
     output: single
-    url: /easy_data_porter/command-line-operation.html
+    url: /easy-data-porter/command-line-operation.html
     folderitems:
     -
   

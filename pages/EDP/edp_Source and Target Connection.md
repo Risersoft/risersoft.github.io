@@ -2,7 +2,7 @@
 title: Source and Target Connection
 keywords: Source and Target Connection
 sidebar: edp_sidebar
-permalink: easy_data_porter/source-and-target-connection.html
+permalink: easy-data-porter/source-and-target-connection.html
 folder: EDP
 hide_sidebar: false
 comments: false

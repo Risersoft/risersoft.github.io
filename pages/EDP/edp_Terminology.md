@@ -2,7 +2,7 @@
 title: Terminology
 keywords: Terminology
 sidebar: edp_sidebar
-permalink: easy_data_porter/terminology.html
+permalink: easy-data-porter/terminology.html
 folder: EDP
 hide_sidebar: false
 comments: false

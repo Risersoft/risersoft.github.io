@@ -2,7 +2,7 @@
 title: Documentation Notes
 keywords: Documentation Notes
 sidebar: edp_sidebar
-permalink: easy_data_porter/documentation-notes.html
+permalink: easy-data-porter/documentation-notes.html
 folder: EDP
 hide_sidebar: false
 comments: false

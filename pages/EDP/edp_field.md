@@ -2,7 +2,7 @@
 title: Field
 keywords: Field
 sidebar: edp_sidebar
-permalink: easy_data_porter/field.html
+permalink: easy-data-porter/field.html
 folder: EDP
 hide_sidebar: false
 comments: false

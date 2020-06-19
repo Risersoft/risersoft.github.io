@@ -2,7 +2,7 @@
 title: Ribbon Bar
 keywords: Ribbon Bar
 sidebar: edp_sidebar
-permalink: easy_data_porter/ribbon-bar-mapping.html
+permalink: easy-data-porter/ribbon-bar-mapping.html
 folder: EDP
 hide_sidebar: false
 comments: false

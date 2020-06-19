@@ -2,7 +2,7 @@
 title: Command Line Operation
 keywords: Command Line Operation
 sidebar: edp_sidebar
-permalink: easy_data_porter/command-line-operation.html
+permalink: easy-data-porter/command-line-operation.html
 folder: EDP
 hide_sidebar: false
 comments: false

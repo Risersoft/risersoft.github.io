@@ -2,7 +2,7 @@
 title: Schema
 keywords: Schema
 sidebar: edp_sidebar
-permalink: easy_data_porter/schema.html
+permalink: easy-data-porter/schema.html
 folder: EDP
 hide_sidebar: false
 comments: false

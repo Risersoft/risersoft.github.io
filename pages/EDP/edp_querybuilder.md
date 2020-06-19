@@ -2,7 +2,7 @@
 title: Query Builder
 keywords: Query Builder
 sidebar: edp_sidebar
-permalink: easy_data_porter/query-builder.html
+permalink: easy-data-porter/query-builder.html
 folder: EDP
 hide_sidebar: false
 comments: false

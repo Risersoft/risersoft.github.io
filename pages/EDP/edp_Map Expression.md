@@ -2,7 +2,7 @@
 title: Map Expression
 keywords: Map Expression
 sidebar: edp_sidebar
-permalink: easy_data_porter/map-expression.html
+permalink: easy-data-porter/map-expression.html
 folder: EDP
 hide_sidebar: false
 comments: false

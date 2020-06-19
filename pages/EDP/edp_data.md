@@ -2,7 +2,7 @@
 title: Data
 keywords: Data
 sidebar: edp_sidebar
-permalink: easy_data_porter/data.html
+permalink: easy-data-porter/data.html
 folder: EDP
 hide_sidebar: false
 comments: false

@@ -2,7 +2,7 @@
 title: Validation Rule
 keywords: Validation Rule
 sidebar: edp_sidebar
-permalink: easy_data_porter/validation-rule.html
+permalink: easy-data-porter/validation-rule.html
 folder: EDP
 hide_sidebar: false
 comments: false

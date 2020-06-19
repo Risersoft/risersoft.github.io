@@ -2,7 +2,7 @@
 title: Mapping
 keywords: Mapping
 sidebar: edp_sidebar
-permalink: easy_data_porter/mapping.html
+permalink: easy-data-porter/mapping.html
 folder: EDP
 hide_sidebar: false
 comments: false

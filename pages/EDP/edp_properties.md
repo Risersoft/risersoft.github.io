@@ -2,7 +2,7 @@
 title: Properties
 keywords: Properties
 sidebar: edp_sidebar
-permalink: easy_data_porter/properties.html
+permalink: easy-data-porter/properties.html
 folder: EDP
 hide_sidebar: false
 comments: false

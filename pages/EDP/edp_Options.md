@@ -2,7 +2,7 @@
 title: Options
 keywords: Options
 sidebar: edp_sidebar
-permalink: easy_data_porter/Options.html
+permalink: easy-data-porter/Options.html
 folder: EDP
 hide_sidebar: false
 comments: false

@@ -1,13 +1,13 @@
 ---
-title:  "Risersoft Product Owner RFP"
+title:  "Risersoft Product Owner Opportunity"
 published: true
-permalink: Risersoft-Product-Owner-RFP.html
+permalink: Risersoft-Product-Owner-Opportunity.html
 tags: [blog]
 ---
 
 
 
-## Risersoft Product Owner RFP
+## Risersoft invites Business Proposals for a win-win partnership.
 
 ![](/images/po.jpg)
 
@@ -48,3 +48,5 @@ We now invite Business Proposals from interested individuals / groups of individ
     3. Provide training to any support/training resources that you think will be required to support the application in production on payable basis.
     
 	4. Take share of the sale as a % which will be mutually decided upon on-boarding.
+
+Pl submit your proposal [here](https://forms.gle/YYAowAaPQSffxM686)

@@ -6,10 +6,22 @@ entries:
   folders:
 
   - title: Products
-    output: single
+    output: web
     folderitems:
-    - title: MPCNirvana Windows
-      url: /mpc-nirvana-win/introduction.html
+    - title: Setup and Activation
+      url: /setup-activation/introduction.html
+      output: single
+          
+    - title: General Environment
+      url: /general-environment/introduction.html
+      output: single
+          
+    - title: Formula Language
+      url: /formula-language/introduction.html
+      output: single
+          
+    - title: Easy Data Porter
+      url: /easy-data-porter/introduction.html
       output: single
     
     

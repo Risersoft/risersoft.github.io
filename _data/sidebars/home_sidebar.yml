@@ -2,26 +2,26 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  levels: two
   folders:
 
   - title: Products
-    output: web
+    output: web,pdf
     folderitems:
     - title: Setup and Activation
       url: /setup-activation/introduction.html
-      output: single
+      output: web
           
     - title: General Environment
       url: /general-environment/introduction.html
-      output: single
+      output: web
           
     - title: Formula Language
       url: /formula-language/introduction.html
-      output: single
+      output: web
           
     - title: Easy Data Porter
       url: /easy-data-porter/introduction.html
-      output: single
+      output: web
     
     

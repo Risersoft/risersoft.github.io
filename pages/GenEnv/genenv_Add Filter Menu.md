@@ -14,7 +14,7 @@ comments: false
 
 Add filter lists all filters applicable in the current view.
 
-If a date type filter is selected, a screen such as the following is shown
+If a date type filter is selected, a screen such as the following is shown:
 
 ![](/images/selectdated.png)
 

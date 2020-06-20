@@ -14,7 +14,7 @@ Maximprise does not allow two users to edit the same thing simultaneously. For t
 a lock is acquired on that row before giving access. If another user is already editing, a dialog box such as the following is 
 displayed -
 
-![](/images/itemschedules.jpg)
+![](/images/itemschedules.png)
 
 When the user “Boss” finishes editing, the lock is released and now it is free to be edited again. The username is taken from the currently logged on Windows User.
 

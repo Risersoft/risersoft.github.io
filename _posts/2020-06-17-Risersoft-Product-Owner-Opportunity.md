@@ -7,17 +7,17 @@ tags: [blog]
 
 
 
-## Risersoft invites Business Proposals for a win-win partnership.
+Risersoft invites proposals for a win-win partnership.
 
 ![](/images/po.jpg)
 
-Risersoft has built a unique B2B SaaS apps platform, which allows us to develop and maintain B2B SaaS apps with speed, 
+## Risersoft has built a unique B2B SaaS apps platform, which allows us to develop and maintain B2B SaaS apps with speed, 
 scale and flexibility. We have built some initial products in the enterprise, engineering and education domains using the 
 same. The list can be seen on [Risersoft products](http://www.risersoft.com/products). 
 
 We now invite Business Proposals from interested individuals / groups of individuals / startups to be selected for a win-win partnership.
 
- The requirement is as under:
+The requirement is as under:
 
     1. You or your team have 10-20 years of combined experience in a domain and have a B2B SaaS product idea in this domain. For example, domains like Fin-tech, Hr-tech, Ed-tech, Legal-tech, Health-tech, Agro-tech, Prop-Tech - this is only an indicative list.
     
@@ -27,9 +27,9 @@ We now invite Business Proposals from interested individuals / groups of individ
     
 	4. You can get the initial 10-20 customer accounts for this product and then can take it forward for widespread adoption in multiple geographies.
 
- If you fall under the above criteria, then Risersoft is interested to partner with you as per below scope of work.
+If you fall under the above criteria, then Risersoft is interested to partner with you as per below scope of work.
 
- If you are an individual or group of individuals, come join us as co-founder(s) of a product. You will:
+## If you are an individual or group of individuals, come join us as co-founder(s) of a product. You will:
 
     1. Provide all necessary documentation for the initial product. Work closely with the Risersoft development team to make the product launch-ready.
     
@@ -41,7 +41,7 @@ We now invite Business Proposals from interested individuals / groups of individ
 	
 	5. Get paid on commission basis as % of the sale of product and associated services.
 
-If you are a startup, we can develop and deploy the product for you. Risersoft will:
+## If you are a startup, we can develop and deploy the product for you. Risersoft will:
  
     1. Undertake the necessary development and/or configuration exercise to build/modify the initial product and also provision in cloud ready to be used.
 	

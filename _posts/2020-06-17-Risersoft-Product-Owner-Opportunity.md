@@ -11,8 +11,8 @@ Risersoft invites proposals for a win-win partnership.
 
 ![](/images/po.jpg)
 
-## Risersoft has built a unique B2B SaaS apps platform, which allows us to develop and maintain B2B SaaS apps with speed, 
-scale and flexibility. We have built some initial products in the enterprise, engineering and education domains using the 
+## Risersoft has built a unique B2B SaaS apps platform, which allows us to develop and maintain B2B SaaS apps 
+with speed, scale and flexibility. We have built some initial products in the enterprise, engineering and education domains using the 
 same. The list can be seen on [Risersoft products](http://www.risersoft.com/products). 
 
 We now invite Business Proposals from interested individuals / groups of individuals / startups to be selected for a win-win partnership.

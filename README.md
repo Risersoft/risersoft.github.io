@@ -2,4 +2,4 @@
 
 Risersoft general documentation.
 
-Hosted on docs.risersoft.com
+Hosted on http://docs.risersoft.com

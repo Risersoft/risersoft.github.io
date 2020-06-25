@@ -25,5 +25,63 @@ entries:
     url: /formula-language/introduction.html
     folderitems:
     -
+    
+  - title: Data Types
+    output: single
+    url: /formula-language/data-types.html
+    folderitems:
+    -
+    
+  - title: Function References
+    output: web
+    
+    folderitems:
+    - title: Date and Time Functions
+      url: /formula-language/date-and-time-functions.html
+      output: web
+      
+    - title: Engineering Functions
+      url: /formula-language/engineering-functions.html
+      output: web
+      
+    - title: Financial Functions
+      url: /formula-language/financial-functions.html
+      output: web
+      
+    - title: Information Functions
+      url: /formula-language/information-functions.html
+      output: web
+      
+    - title: Logical Functions
+      url: /formula-language/logical-functions.html
+      output: web
+      
+    - title: Lookup and Reference Functions
+      url: /formula-language/lookup-and-reference-functions.html
+      output: web
+      
+    - title: Math Functions
+      url: /formula-language/math-functions.html
+      output: web
+      
+    - title: Point Functions
+      url: /formula-language/point-functions.html
+      output: web
+      
+    - title: Statistical Functions
+      url: /formula-language/statistical-functions.html
+      output: web
+      
+    - title: Text and Data Functions
+      url: /formula-language/text-and-data-functions.html
+      output: web
+      
+    - title: AutoCAD Model Functions
+      url: /formula-language/autocad-model-functions.html
+      output: web
+      
+    - title: List Functions
+      url: /formula-language/list-functions.html
+      output: web
  
  

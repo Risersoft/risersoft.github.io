@@ -5,12 +5,9 @@ permalink: who-moved-my-cheese-porting-from-asp-net-mvc-to-asp-net-core5.html
 tags: [blog]
 ---
 
-## Introduction
-
 ![](/images/cheese.jpg)
 
-
-
+## Introduction
 
 With the announcement of .Net 5 by Microsoft, finally there is only one current version of .Net. The old .Net framework won’t be updated and all new development would happen only in the new .Net 5 codebase.
 

@@ -15,11 +15,11 @@ That leaves apps based on .Net MVC with no choice but to upgrade. While there is
 
 -	Immo Landswerth stated in his [presentation](https://www.youtube.com/watch?v=bvmd2F11jpA&list=PLdo4fOcmZ0oVWop1HEOml2OdqbDs6IlcI&index=7) at DotnetConf 2020 that during the porting project, click stops must be used – this means having working code at all times that builds and preferably can be tested and published. 
 
--	There is another thing we should add to this – code reuse. 
+-	There is another thing we should add to this – **code reuse**. 
 
       o	 This means that the classes and the views be reused in the old Asp .Net MVC project and the new Asp .Net Core 5 project. 
 	  
-      o	 This is especially important in bigger solutions (>50+ projects) where the conversion process is likely to take months - sometimes years – rather than days. 
+      o	 This is especially important in bigger solutions (>25+ projects) where the conversion process is likely to take months - sometimes years – rather than days. 
 	  
       o	 Code reusability means less code has to be maintained during the entire conversion journey and beyond.
 

@@ -18,19 +18,56 @@ topnav_dropdowns:
         - title: Appsframework
           external_url: http://docs.appsframework.com/
           
+        - title: SaasMatter
+          external_url: http://docs.saasmatter.com/
+          
+         
         - title: EdNirvana
           external_url: http://docs.ednirvana.com/
-      
+          
         - title: HRMNirvana
           external_url: http://docs.hrmnirvana.com/
-
+          
         - title: MPCNirvana
           external_url: http://docs.mpcnirvana.com/
+          
+        - title: ProjectsNirvana
+          external_url: http://docs.projectsnirvana.com/
+          
+        - title: PowerBOM
+          external_url: http://docs.powerbom.com/
+          
+        - title: CRMNirvana
+          external_url: http://docs.crmnirvana.com/
+          
+        - title: BooksNirvana
+          external_url: http://docs.booksnirvana.com/
+          
+        - title: FileMinister
+          external_url: http://docs.fileminister.com/
+          
+        - title: GSTNirvana
+          external_url: http://docs.gstnirvana.com/
+          
+        - title: Visual Circuit
+          external_url: http://docs.visualcircuit.com/
+          
+        - title: FormulaCAD
+          external_url: http://docs.formulacad.com/
+      
+        - title: EtomPlan
+          external_url: http://docs.etomplan.com/
+
+        - title: CollegeNirvana
+          external_url: http://docs.collegenirvana.com/
+          
+        - title: TrustNirvana
+          external_url: http://docs.trustnirvana.com/
                 
-        - title: Publisher
+        - title: Risersoft
           external_url: http://www.risersoft.com/
         
-    - title: Products
+    - title: Modules
       folderitems:
         - title: Setup and Activation
           url: /setup-activation/introduction.html
